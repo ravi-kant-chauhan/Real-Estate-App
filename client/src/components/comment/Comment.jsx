@@ -23,6 +23,8 @@ const Comment = ({ comment, setComments }) => {
     }
   }
 
+
+  
   return (
     <div className={classes.container}>
       <div className={classes.wrapper}>
